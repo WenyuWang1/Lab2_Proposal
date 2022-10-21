@@ -36,7 +36,7 @@ int main(){
 ### Why it is cool:
   The information collected by APDS-9960 can also be gesture or distance, thus the boards can transfer the information and control the leds to represent different signals which is quite useful in practical life.
 ### Components Requested:
-  *Couple wires and resistors.
-  *Leds with different colors.
+*   Couple wires and resistors.
+*   Leds with different colors.
 ### Questions:
 Not now, maybe later.
